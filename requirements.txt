@@ -1,0 +1,4 @@
+requests
+distro
+git+https://github.com/karolisr/ncbi-taxonomy-local
+git+https://github.com/karolisr/kakapo
